@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2EF703&width=435&lines=Hello+There+i'm+Ravidu+Senevirathne" />
+  </a>
+</p>
+
 # 💫 About Me:
 🔭 I’m currently working on a Web-apps<br>👯 I’m looking to collaborate on open-source projects<br>🤝 I’m looking for help with marketing Strategies<br>🌱 I’m currently learning Frameworks<br>💬 Ask me about React, Laravel<br>⚡ Fun fact I can sing and play guitar 😂
 
