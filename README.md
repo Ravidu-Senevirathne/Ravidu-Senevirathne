@@ -1,7 +1,7 @@
 # 💫 About Me:
-# About Me:
+[# About Me:
 🔭 I’m currently working on a Web-apps<br>👯 I’m looking to collaborate on open-source projects<br>🤝 I’m looking for help with marketing Strategies<br>🌱 I’m currently learning Frameworks<br>💬 Ask me about React, Laravel<br>⚡ Fun fact I can sing and play guitar 😂
-
+](https://carbon.now.sh/?bg=rgba%28171%2C+184%2C+195%2C+1%29&t=seti&wt=none&l=auto&width=680&ds=true&dsyoff=20px&dsblur=68px&wc=true&wa=true&pv=56px&ph=56px&ln=false&fl=1&fm=Hack&fs=14px&lh=133%25&si=false&es=2x&wm=false&code=%257B%250A%2520%2520%2522introduction%2522%253A%2520%2522Add%2520a%2520small%2520introduction%2522%252C%250A%2520%2520%2522about_me%2522%253A%2520%257B%250A%2520%2520%2520%2520%2522currently_working_on%2522%253A%2520%2522personal%2520projects%2522%252C%250A%2520%2520%2520%2520%2522looking_to_collaborate_on%2522%253A%2520%2522open%2520source%2520initiatives%2522%252C%250A%2520%2520%2520%2520%2522looking_for_help_with%2522%253A%2520%2522advanced%2520coding%2520techniques%2522%252C%250A%2520%2520%2520%2520%2522currently_learning%2522%253A%2520%2522Python%2520and%2520machine%2520learning%2522%252C%250A%2520%2520%2520%2520%2522ask_me_about%2522%253A%2520%2522web%2520development%2522%252C%250A%2520%2520%2520%2520%2522fun_fact%2522%253A%2520%2522I%2520can%2520sing%2520and%2520play%2520guitar%2522%250A%2520%2520%257D%250A%257D)
 
 ## 🌐 Socials:  
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ravidusenevirathne) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ravidusenevirathne) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ravidudilruk) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@ravidu_senevirathne)
