@@ -9,7 +9,12 @@
   "learning": "Frameworks",
   "expertise": ["React", "Laravel"],
   "funFact": "I can sing and play guitar 😂",
-
+  "socials": {
+    "facebook": "ravidusenevirathne",
+    "instagram": "ravidusenevirathne",
+    "linkedin": "ravidudilruk",
+    "tiktok": "ravidu_senevirathne"
+  },
   "techStack": {
     "languages": ["C", "C#", "CSS3", "HTML5", "Java", "JavaScript", "PHP"],
     "frameworks": ["Laravel", "NodeJS", "React"],
