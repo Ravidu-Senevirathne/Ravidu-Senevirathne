@@ -9,12 +9,11 @@
   "learning": "Frameworks",
   "expertise": ["React", "Laravel"],
   "funFact": "I can sing and play guitar 😂",
-  "socials": {
-    "facebook": "ravidusenevirathne",
-    "instagram": "ravidusenevirathne",
-    "linkedin": "ravidudilruk",
-    "tiktok": "ravidu_senevirathne"
-  },
+ ## 🌐 Socials:  
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ravidusenevirathne)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ravidusenevirathne)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ravidudilruk)  
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@ravidu_senevirathne)  
   "techStack": {
     "languages": ["C", "C#", "CSS3", "HTML5", "Java", "JavaScript", "PHP"],
     "frameworks": ["Laravel", "NodeJS", "React"],
